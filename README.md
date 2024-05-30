@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashen</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">Student at Faculty of Technology University of Colombo</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdmashen&label=Profile%20views&color=0e75b6&style=flat" alt="mdmashen" /> </p>
 
 <hr>
